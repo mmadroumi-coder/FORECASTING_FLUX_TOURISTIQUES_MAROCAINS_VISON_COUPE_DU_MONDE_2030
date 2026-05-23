@@ -37,10 +37,10 @@ L'intégralité du rapport de recherche, des explications mathématiques, des ch
 
 ## 🛠️ Stack Technique
 
-- **Traitement des Données :** `Pandas`, `NumPy`, `Scikit-Learn` (MinMaxScaler).
-- **Deep Learning :** `TensorFlow`, `Keras` (SimpleRNN, Dropout, EarlyStopping).
-- **Visualisation :** `Matplotlib` (Séries temporelles, focus dynamiques).
+- **Traitement des Données :** `Pandas`, `NumPy`, `Scikit-Learn` .
+- **Deep Learning :** `TensorFlow`, `Keras` .
+- **Visualisation :** `Matplotlib` .
 - **Déploiement Documentaire :** `MkDocs`, `Material for MkDocs`.
 
 ---
-*Projet réalisé par **Mohammed Madroumi** dans le cadre du cycle d'ingénieur en Intelligence Artificielle et Technologies de la Données (IATDSI) - ENSAM Meknès.*
+*Projet réalisé par **Mohammed Madroumi** dans le cadre du la premiére année cycle d'ingénieur en 	Intelligence Artificielle et Technologies des Données : Systèmes Industriels (IATDSI) - ENSAM Meknès.*
