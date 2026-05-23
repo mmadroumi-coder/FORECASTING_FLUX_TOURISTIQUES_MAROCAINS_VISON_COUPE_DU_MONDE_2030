@@ -13,7 +13,7 @@ En 2030, le Royaume du Maroc co-organisera la Coupe du Monde de la FIFA, un év�
 
 Ce projet de fin d'études en ingénierie (IA & Data Technologies) répond à une problématique stratégique majeure : **Le réseau hôtelier marocain actuel sera-t-il capable d'absorber ce choc de la demande ?**
 
-Pour y répondre, nous avons développé un moteur d'inférence de bout en bout, allant du nettoyage des données historiques jusqu'à la simulation visuelle des déficits en lits d'hôtels pour les grandes métropoles (Marrakech, Agadir, Casablanca, Tanger, Fès, Rabat).
+Pour y répondre, nous avons développé un moteur d'inférence de bout en bout, allant du nettoyage des données historiques jusqu'à la simulation visuelle des déficits en lits d'hôtels pour les grandes métropoles recueillant les matchs de la coupe  (Marrakech, Agadir, Casablanca, Tanger, Fès, Rabat).
 
 ## 🧠 L'Approche Scientifique (Modélisation Hybride)
 
