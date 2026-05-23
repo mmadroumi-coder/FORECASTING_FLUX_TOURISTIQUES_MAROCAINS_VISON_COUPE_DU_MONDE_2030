@@ -39,8 +39,8 @@ L'intégralité du rapport de recherche, des explications mathématiques, des ch
 
 - **Traitement des Données :** `Pandas`, `NumPy`, `Scikit-Learn` .
 - **Deep Learning :** `TensorFlow`, `Keras` .
-- **Visualisation :** `Matplotlib` .
+- **Visualisation :** `Matplotlib` , `seaborn` .
 - **Déploiement Documentaire :** `MkDocs`, `Material for MkDocs`.
 
 ---
-*Projet réalisé par **Mohammed Madroumi** dans le cadre du la premiére année cycle d'ingénieur en 	Intelligence Artificielle et Technologies des Données : Systèmes Industriels (IATDSI) - ENSAM Meknès.*
+*Projet réalisé par **Mohammed Madroumi** dans le cadre du la premiére année du cycle d'ingénieur en 	Intelligence Artificielle et Technologies des Données : Systèmes Industriels (IATDSI) - ENSAM Meknès.*
