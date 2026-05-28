@@ -38,6 +38,16 @@ L'impact de ces opérations est frappant. Comme le montre la figure ci-dessous, 
 
 ![Série avant et après transformations](images/transformations_diff.png)
 
+###  Limite Mathématique face au Choc Exogène (Le cas du Covid-19)
+
+Bien que les tests statistiques (ADF/KPSS) valident techniquement le nouveau régime de la série, l'observation minutieuse de la courbe différenciée révèle une anomalie incontournable : la variance explose de manière chaotique autour de la période 2020-2021, empêchant la série d'être un "bruit blanc" parfait.
+
+Loin d'être une erreur méthodologique, cette turbulence est la traduction mathématique exacte d'une **Rupture Structurelle** sans précédent : la fermeture stricte des frontières liée au confinement sanitaire. 
+
+* **L'explication technique :** Les transformations continues (comme le Logarithme) et linéaires (comme la différenciation) sont conçues pour lisser une volatilité économique naturelle. Elles sont cependant impuissantes face à un événement d'arrêt binaire ("On/Off"). Le passage soudain de centaines de milliers de touristes à un zéro absolu génère une discontinuité mathématique majeure que la différenciation simple ne peut absorber.
+
+**La Valeur Ajoutée de cette observation :** Cette "imperfection" visuelle est la justification absolue de l'utilisation du modèle **SARIMAX** (le "X" signifiant *eXogenous*). Un simple modèle ARIMA aurait été mathématiquement détruit par cette variance. C'est précisément pour neutraliser cette anomalie que nous avons forcé le modèle à intégrer la variable exogène `Pandemie`, lui permettant de séparer le choc sanitaire de la véritable dynamique touristique.
+
 ---
 
 ## 3. Identification des Paramètres (ACF / PACF) et Auto-ARIMA
