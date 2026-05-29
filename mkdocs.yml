@@ -1,6 +1,10 @@
+site_name: Stratégie 2030 : Coupe du Monde et Capacité Hôtelière
+theme:
+  name: material
+
 nav:
   - Accueil & Problématique: index.md
   - Chapitre 1 - Stratégie de la Donnée: donnees.md
-  - Chapitre 2 - Limites de l'Économétrie (SARIMAX): phase1_econometrie.md
-  - Chapitre 3 - Le Moteur IA Hybride (Deep Learning): phase2_deeplearning.md
-  - Chapitre 4 - Stratégie d'Infrastructure 2030 (Phase 3): phase3_recommandations.md
+  - Chapitre 2 - Limites de l'Économétrie: phase1_econometrie.md
+  - Chapitre 3 - Modélisation Deep Learning: phase2_deeplearning.md
+  - Chapitre 4 - Recommandations Stratégiques: phase3_recommandations.md
