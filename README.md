@@ -33,7 +33,7 @@ L'anticipation d'un événement inédit pose une limite mathématique fondamenta
 
 L'intégralité du rapport de recherche, des explications mathématiques, des choix d'architecture et des graphiques finaux d'aide à la décision est disponible sur notre documentation interactive :
 
-👉 **[Accéder au Rapport Complet (Lien Read the Docs)]([#](https://forecasting-flux-touristiques-marocains-vison-coupe-du-monde-20.readthedocs.io/fr/latest/))**
+👉 [Acceder au documentation ReadTheDocs](https://forecasting-flux-touristiques-marocains-vison-coupe-du-monde-20.readthedocs.io/fr/latest/).
 
 ## 🛠️ Stack Technique
 
