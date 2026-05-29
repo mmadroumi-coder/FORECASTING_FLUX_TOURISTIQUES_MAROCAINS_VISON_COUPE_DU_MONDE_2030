@@ -28,6 +28,7 @@ L'anticipation d'un événement inédit pose une limite mathématique fondamenta
 - `notebooks/` : Contient le code source principal (`.ipynb`). Le pipeline inclut la préparation des données, le benchmark des modèles (Baseline vs RNN), le forecasting autorégressif et le calcul des capacités.
 - `docs/` : Contient le code source de la documentation technique rédigée en Markdown.
 - `mkdocs.yml` : Fichier de configuration pour le déploiement du site web documentaire.
+- `DATA/` : contient le fichier .csv du dataset .
 
 ## 📚 Documentation Officielle (Read the Docs)
 
