@@ -1,7 +1,7 @@
 site_name: "Stratégie 2030 : Coupe du Monde et Capacité Hôtelière"
 theme:
   name: material
-
+docs_dir: Docs
 nav:
   - Accueil & Problématique: index.md
   - Chapitre 1 - Stratégie de la Donnée: donnees.md
