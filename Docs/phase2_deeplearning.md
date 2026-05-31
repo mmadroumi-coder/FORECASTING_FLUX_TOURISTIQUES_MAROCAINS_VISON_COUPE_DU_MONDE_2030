@@ -65,6 +65,7 @@ Un paramètre heuristique doit être fondé scientifiquement. Sur les conseils d
 
 En tenant compte de la proximité exceptionnelle du Maroc avec l'Europe, l'injection d'un coefficient multiplicateur d'ingénierie de **1.45 (+45% de demande excédentaire)** sur les mois ciblés représente le scénario de base le plus réaliste.
 
-![Courbe Hybride 2030](images/courbe_hybride.png)
+<img width="1720" height="3420" alt="image" src="https://github.com/user-attachments/assets/6a5aa925-f3dd-461a-ba46-1ea624a97a65" />
+
 
 **Conclusion de la Phase 2 :** Nous possédons désormais un modèle mathématique simulant de manière réaliste le choc de 2030. Le défi analytique bascule désormais sur la **Phase 3 : Confrontation de cette demande astronomique avec la capacité hôtelière physique de chaque métropole marocaine.**
